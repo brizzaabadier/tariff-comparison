@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TariffComparisonService</name>
+    </assembly>
+    <members>
+        <member name="M:TariffComparisonService.Controllers.TariffComparisonController.GetAllTariff(System.Decimal)">
+             <summary>
+             Returns a list of tariffs with order of prices from low to high depending on the given consumption per year
+            </summary>
+             <param name="consumption">The total electricity consumption in kilowatt hours per year</param>
+        </member>
+    </members>
+</doc>

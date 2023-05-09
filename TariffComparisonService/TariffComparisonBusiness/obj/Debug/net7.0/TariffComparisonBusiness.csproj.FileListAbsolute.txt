@@ -1,0 +1,15 @@
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/bin/Debug/net7.0/TariffComparisonBusiness.deps.json
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/bin/Debug/net7.0/TariffComparisonBusiness.dll
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/bin/Debug/net7.0/TariffComparisonBusiness.pdb
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/bin/Debug/net7.0/Tariffs.dll
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/bin/Debug/net7.0/Tariffs.pdb
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/obj/Debug/net7.0/TariffComparisonBusiness.csproj.AssemblyReference.cache
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/obj/Debug/net7.0/TariffComparisonBusiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/obj/Debug/net7.0/TariffComparisonBusiness.AssemblyInfoInputs.cache
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/obj/Debug/net7.0/TariffComparisonBusiness.AssemblyInfo.cs
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/obj/Debug/net7.0/TariffComparisonBusiness.csproj.CoreCompileInputs.cache
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/obj/Debug/net7.0/TariffComparisonBusiness.csproj.CopyComplete
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/obj/Debug/net7.0/TariffComparisonBusiness.dll
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/obj/Debug/net7.0/refint/TariffComparisonBusiness.dll
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/obj/Debug/net7.0/TariffComparisonBusiness.pdb
+/Users/brizzaabadier/Desktop/private/Learnings/C#-learnings/tariff-comparison/TariffComparisonService/TariffComparisonBusiness/obj/Debug/net7.0/ref/TariffComparisonBusiness.dll

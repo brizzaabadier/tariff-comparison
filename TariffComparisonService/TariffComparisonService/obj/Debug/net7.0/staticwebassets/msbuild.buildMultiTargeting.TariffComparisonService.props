@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/TariffComparisonService.props" />
+</Project>

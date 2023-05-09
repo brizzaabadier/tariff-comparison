@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/brizzaabadier/Desktop/private/Learnings/tariff-comparison/TariffComparisonService/Tariffs/Tariffs.csproj": {}
+  },
+  "projects": {
+    "/Users/brizzaabadier/Desktop/private/Learnings/tariff-comparison/TariffComparisonService/Tariffs/Tariffs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brizzaabadier/Desktop/private/Learnings/tariff-comparison/TariffComparisonService/Tariffs/Tariffs.csproj",
+        "projectName": "Tariffs",
+        "projectPath": "/Users/brizzaabadier/Desktop/private/Learnings/tariff-comparison/TariffComparisonService/Tariffs/Tariffs.csproj",
+        "packagesPath": "/Users/brizzaabadier/.nuget/packages/",
+        "outputPath": "/Users/brizzaabadier/Desktop/private/Learnings/tariff-comparison/TariffComparisonService/Tariffs/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brizzaabadier/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
